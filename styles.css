@@ -1,0 +1,32 @@
+.row1 {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.row2 {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.beige {
+    background-color: beige;
+}
+
+.black {
+    background-color: black;
+}
+
